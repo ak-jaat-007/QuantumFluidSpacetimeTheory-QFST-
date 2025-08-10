@@ -37,6 +37,8 @@ Plots for publication including chi-square boxplots, gravitational wave dispersi
 Identification of outlier galaxies in rotation curve fits.
 
 Contact
+
+
 Independent Researcher: Aman Kaliramna
 Email: amanka937@gmail.com
 
